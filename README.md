@@ -1,2 +1,2 @@
-alunas: LUANA RIBEIRO 
-sterlyne
+aluna LUANA RIBEIRO 
+ aluna terlyne
